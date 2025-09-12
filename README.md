@@ -7,9 +7,14 @@ Things I am Using
 - Fonts: [Input Mono](https://input.djr.com/)
 
 ## Multi-Platform Softwares
-- [TTime](https://ttime.timerecord.cn/)
-- [pixpin](https://pixpin.cn/)
-- [snipaste](https://www.snipaste.com/download.html)
+- [TTime](https://ttime.timerecord.cn/) (on windows better)
+- [Pixpin](https://pixpin.cn/)
+- [Snipaste](https://www.snipaste.com/download.html)
+
+## Mac Softwares
+- [Raycast](https://raycast.com/)
+- [Bob](https://github.com/ripperhe/Bob)
+- [tencent-lemon](https://lemon.qq.com/)
 
 ## Browser
 - [Brave](https://brave.com/)
