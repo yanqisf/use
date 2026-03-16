@@ -15,6 +15,9 @@ Things I am Using
 - [Animeko](https://github.com/open-ani/animeko)
 - [Imagine](https://github.com/meowtec/Imagine)
 
+## Windows Softwares
+- [MKVToolNix](https://mkvtoolnix.download/downloads.html)
+
 ## Mac Softwares
 - [Raycast](https://raycast.com/)
 - [Bob](https://github.com/ripperhe/Bob)
